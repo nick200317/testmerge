@@ -8,3 +8,13 @@ C:\Users\nikpl\source\repos\TestMergeWin\TestMergeWin\obj\Debug\TestMergeWin.csp
 C:\Users\nikpl\source\repos\TestMergeWin\TestMergeWin\obj\Debug\TestMergeWin.csproj.CoreCompileInputs.cache
 C:\Users\nikpl\source\repos\TestMergeWin\TestMergeWin\obj\Debug\TestMergeWin.exe
 C:\Users\nikpl\source\repos\TestMergeWin\TestMergeWin\obj\Debug\TestMergeWin.pdb
+C:\Users\andre\Desktop\nikitaxuesos\testmerge\TestMergeWin\bin\Debug\TestMergeWin.exe.config
+C:\Users\andre\Desktop\nikitaxuesos\testmerge\TestMergeWin\bin\Debug\TestMergeWin.exe
+C:\Users\andre\Desktop\nikitaxuesos\testmerge\TestMergeWin\bin\Debug\TestMergeWin.pdb
+C:\Users\andre\Desktop\nikitaxuesos\testmerge\TestMergeWin\obj\Debug\TestMergeWin.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\nikitaxuesos\testmerge\TestMergeWin\obj\Debug\TestMergeWin.MainForm.resources
+C:\Users\andre\Desktop\nikitaxuesos\testmerge\TestMergeWin\obj\Debug\TestMergeWin.Properties.Resources.resources
+C:\Users\andre\Desktop\nikitaxuesos\testmerge\TestMergeWin\obj\Debug\TestMergeWin.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\nikitaxuesos\testmerge\TestMergeWin\obj\Debug\TestMergeWin.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\nikitaxuesos\testmerge\TestMergeWin\obj\Debug\TestMergeWin.exe
+C:\Users\andre\Desktop\nikitaxuesos\testmerge\TestMergeWin\obj\Debug\TestMergeWin.pdb
