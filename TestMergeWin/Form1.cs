@@ -16,5 +16,7 @@ namespace TestMergeWin
 		{
 			InitializeComponent();
 		}
+
+		private void btn_Sum_Click(object sender, EventArgs e) => tb_Res.Text = (nud_FirstNumber.Value + nud_SecondNumber.Value).ToString();
 	}
 }

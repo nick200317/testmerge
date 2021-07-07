@@ -67,6 +67,7 @@ namespace TestMergeWin
 			this.btn_Sum.TabIndex = 3;
 			this.btn_Sum.Text = "Сложить";
 			this.btn_Sum.UseVisualStyleBackColor = true;
+			this.btn_Sum.Click += new System.EventHandler(this.btn_Sum_Click);
 			// 
 			// btn_Div
 			// 
