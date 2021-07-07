@@ -1,0 +1,10 @@
+C:\Users\nikpl\source\repos\TestMergeWin\TestMergeWin\bin\Debug\TestMergeWin.exe.config
+C:\Users\nikpl\source\repos\TestMergeWin\TestMergeWin\bin\Debug\TestMergeWin.exe
+C:\Users\nikpl\source\repos\TestMergeWin\TestMergeWin\bin\Debug\TestMergeWin.pdb
+C:\Users\nikpl\source\repos\TestMergeWin\TestMergeWin\obj\Debug\TestMergeWin.csprojAssemblyReference.cache
+C:\Users\nikpl\source\repos\TestMergeWin\TestMergeWin\obj\Debug\TestMergeWin.Form1.resources
+C:\Users\nikpl\source\repos\TestMergeWin\TestMergeWin\obj\Debug\TestMergeWin.Properties.Resources.resources
+C:\Users\nikpl\source\repos\TestMergeWin\TestMergeWin\obj\Debug\TestMergeWin.csproj.GenerateResource.cache
+C:\Users\nikpl\source\repos\TestMergeWin\TestMergeWin\obj\Debug\TestMergeWin.csproj.CoreCompileInputs.cache
+C:\Users\nikpl\source\repos\TestMergeWin\TestMergeWin\obj\Debug\TestMergeWin.exe
+C:\Users\nikpl\source\repos\TestMergeWin\TestMergeWin\obj\Debug\TestMergeWin.pdb
